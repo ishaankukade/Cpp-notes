@@ -1,2 +1,2 @@
 # Cpp-notes
-Data structures and Algorithms
+All basic programs of C++ and data structures.
